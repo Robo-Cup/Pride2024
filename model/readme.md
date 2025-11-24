@@ -1,1 +1,0 @@
-The [Robot.zip](./Robot.zip) is an export of our final Cad model for the robot! Feel free to download it and check it out.

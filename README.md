@@ -12,3 +12,8 @@ https://cad.onshape.com/documents/c05b538583dc7a058cc11208/w/56312b09165721b55fe
 
 ### Final Presentation:
 https://docs.google.com/presentation/d/1JxUcSc08UAXKejr08Tx7JYnDLSCyZVsQvXzxRcqKXNo/edit?usp=sharing
+
+### Extra Documentation:
+- [Robot.zip](./documentation/Robot.zip) An export of our final Cad model for the robot! Feel free to download it and check it out.
+- [TDP.pdf](./documentation/TDP.pdf) Final Team Document Paper for Nationals
+- [CapstonePres.pptx](./documentation/CapstonePres.pptx) Capstone Presentation for HVCHS

@@ -1,0 +1,3 @@
+- [Robot.zip](./Robot.zip) An export of our final Cad model for the robot! Feel free to download it and check it out.
+- [TDP.pdf](./TDP.pdf) Final Team Document Paper for Nationals
+- [CapstonePres.pptx](./CapstonePres.pptx) Capstone Presentation for HVCHS
